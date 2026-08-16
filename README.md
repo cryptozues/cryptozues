@@ -142,14 +142,6 @@ I'm currently strengthening my skills in **AWS, Linux, Docker, Kubernetes, Terra
 
 ---
 
-## 🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/cryptozues/cryptozues/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
-</p>
-
----
-
 ## 🤝 Connect With Me
 
 <p align="center">

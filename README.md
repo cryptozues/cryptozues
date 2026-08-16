@@ -1,43 +1,188 @@
 <h1 align="center">Hi 👋, I'm Prathamesh Kshirsagar</h1>
-<h3 align="center">A passionate Cloud and DevOps Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cryptozues&label=Profile%20views&color=0e75b6&style=flat" alt="cryptozues" /> </p>
+<h3 align="center">☁️ Cloud & DevOps Enthusiast | AWS | Linux | Docker | Kubernetes</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cryptozues" alt="cryptozues" /></a> </p>
-
-- 🔭 I’m currently working on **AWS cloud infrastructure**
-
-- 🌱 I’m currently learning **Kubernetes, Terraform, AWS, CI/CD**
-
-- 👯 I’m looking to collaborate on **AWS, Docker, DevOps, Cloud projects**
-
-- 🤝 I’m looking for help with **Kubernetes, Terraform, CI/CD**
-
-- 👨‍💻 All of my projects are available at [https://github.com/cryptozues](https://github.com/cryptozues)
-
-- 💬 Ask me about **AWS, Linux, Docker, Git, Cloud**
-
-- 📫 How to reach me **kshirsagarprathamesh171717@gmail.com**
-
-- ⚡ Fun fact **Football enthusiast ⚽ | Tech & cloud nerd ☁️**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/target_17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="target_17" height="30" width="40" /></a>
-<a href="https://twitter.com/prathamesh9155" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prathamesh9155" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/prathamesh-kshirsagar-961bb8207/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/prathamesh-kshirsagar-961bb8207/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@prathamesh17.17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@prathamesh17.17" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/cryptozues">
+    <img src="https://komarev.com/ghpvc/?username=cryptozues&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  </a>
+  <a href="https://github.com/cryptozues?tab=followers">
+    <img src="https://img.shields.io/github/followers/cryptozues?label=Followers&style=flat" alt="GitHub Followers" />
+  </a>
+  <a href="https://github.com/cryptozues?tab=repositories">
+    <img src="https://img.shields.io/github/stars/cryptozues?style=flat&label=Stars" alt="GitHub Stars" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://github.com/cryptozues">
+    <img src="https://img.shields.io/badge/GitHub-cryptozues-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/prathamesh-kshirsagar-961bb8207/">
+    <img src="https://img.shields.io/badge/LinkedIn-Prathamesh%20Kshirsagar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cryptozues&show_icons=true&locale=en&layout=compact" alt="cryptozues" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cryptozues&show_icons=true&locale=en" alt="cryptozues" /></p>
+## 👨‍💻 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cryptozues&" alt="cryptozues" /></p>
+I'm a **Cloud and DevOps enthusiast** focused on building, deploying, and managing cloud infrastructure.
+
+I'm currently strengthening my skills in **AWS, Linux, Docker, Kubernetes, Terraform, networking, and CI/CD** while building hands-on projects.
+
+* 🔭 Currently working on **AWS cloud infrastructure and DevOps projects**
+* 🌱 Currently learning **Kubernetes, Terraform, AWS & CI/CD**
+* 👯 Looking to collaborate on **Cloud & DevOps projects**
+* 💬 Ask me about **AWS, Linux, Docker, Git, Networking & Cloud**
+* 📫 Reach me at **[kshirsagarprathamesh171717@gmail.com](mailto:kshirsagarprathamesh171717@gmail.com)**
+* ⚡ Fun fact: **Football enthusiast ⚽ | Tech & Cloud nerd ☁️**
+
+---
+
+## 🛠️ Tech Stack
+
+### ☁️ Cloud
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45" height="45" alt="AWS"/>
+  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="45" height="45" alt="Azure"/>
+</p>
+
+### ⚙️ DevOps & Infrastructure
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="45" height="45" alt="Docker"/>
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="45" height="45" alt="Kubernetes"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45" height="45" alt="Git"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" height="45" alt="Linux"/>
+</p>
+
+### 💻 Programming & Scripting
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
+  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="45" height="45" alt="Bash"/>
+</p>
+
+### 🗄️ Databases & Web
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" height="45" alt="MySQL"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="45" height="45" alt="Nginx"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### ☁️ Scalable Static Website Deployment on AWS
+
+**AWS S3 • CloudFront • CDN • Cloud Infrastructure**
+
+* Deployed a static website using **Amazon S3**
+* Configured **Amazon CloudFront** as a CDN
+* Integrated S3 as the CloudFront origin
+* Focused on scalable and low-latency content delivery
+
+🔗 **Repository:** `YOUR_AWS_PROJECT_REPO`
+
+---
+
+### 🐳 Django Notes App — Dockerized
+
+**Django • Docker • Docker Compose • Nginx • MySQL**
+
+* Built a multi-container architecture using **Docker Compose**
+* Containerized Django, MySQL and Nginx services
+* Configured Nginx as a **reverse proxy**
+* Integrated MySQL with Django ORM
+* Used Dockerfiles and Compose for consistent deployment
+
+🔗 **Repository:** `YOUR_DJANGO_PROJECT_REPO`
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=cryptozues&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cryptozues&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=cryptozues&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cryptozues&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=cryptozues&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6" alt="GitHub Trophies" />
+</p>
+
+---
+
+## 📂 Featured Repositories
+
+<p align="center">
+  <a href="https://github.com/cryptozues/YOUR_AWS_PROJECT_REPO">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cryptozues&repo=YOUR_AWS_PROJECT_REPO&theme=tokyonight&hide_border=true" alt="AWS Project" />
+  </a>
+
+  <a href="https://github.com/cryptozues/YOUR_DJANGO_PROJECT_REPO">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cryptozues&repo=YOUR_DJANGO_PROJECT_REPO&theme=tokyonight&hide_border=true" alt="Django Docker Project" />
+  </a>
+</p>
+
+---
+
+## 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/cryptozues/cryptozues/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/prathamesh-kshirsagar-961bb8207/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+
+  <a href="mailto:kshirsagarprathamesh171717@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+
+  <a href="https://github.com/cryptozues">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+
+  <a href="https://www.youtube.com/@prathamesh17.17" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>☁️ Building in the cloud, one project at a time.</i>
+</p>

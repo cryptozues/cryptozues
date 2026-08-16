@@ -103,18 +103,6 @@ I'm currently strengthening my skills in **AWS, Linux, Docker, Kubernetes, Terra
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cryptozues&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cryptozues&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
 ## 🔥 Contribution Streak
 
 <p align="center">

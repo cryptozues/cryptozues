@@ -60,12 +60,11 @@ I'm currently strengthening my skills in **AWS, Linux, Docker, Kubernetes, Terra
 
 ### 💻 Programming & Scripting
 
-<a href="https://www.gnu.org/software/bash/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"
-       width="45"
-       height="45"
-       alt="Bash"/>
-</a>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="45" height="45" alt="Bash"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="45" height="45" alt="Go"/>
+</p>
 
 ### 🗄️ Databases & Web
 
